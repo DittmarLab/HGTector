@@ -1,3 +1,5 @@
+### Note: The development of HGTector2 has been moved to [qiyunlab](https://qiyunlab.github.io/). Please access the new repository at: (https://github.com/qiyunlab/HGTector). The current repository keeps legacy code till version 2.0b2.
+
 HGTector2
 =========
 
